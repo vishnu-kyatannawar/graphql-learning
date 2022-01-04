@@ -1,2 +1,5 @@
-# graphql-learning
-Here I am going to commit everything which I practice related to graphql
+# Introduction
+
+This repo is created to learn GraphQL.\
+I will also be adding my assignments related to GraphQL here.
+
