@@ -1,3 +1,5 @@
+> # Stopped doing this since it was taking a lot of time. I will soon start working on a application to learn graphql.
+
 # Introduction
 
 This repo is created to learn GraphQL.\
